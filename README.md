@@ -25,11 +25,8 @@ With deep production expertise in enterprise data warehousing, advanced SQL mode
 
 | Domain | Technologies & Libraries |
 | :--- | :--- |
-| **Languages & Core** | `Python` (Pandas, NumPy, Scikit-Learn), `R`, `SQL` (T-SQL, PL/SQL, PostgreSQL) |
-| **Data Science & ML** | `Statistical Modeling`, `Supervised/Unsupervised Learning`, `Time Series Forecasting`, `EDA`, `Feature Engineering` |
-| **BI & Analytics** | `Power BI` (DAX, Power Query), `Tableau`, `Looker`, `SSAS`, `Data Modeling (Star/Snowflake Schema)` |
-| **Data Engineering** | `ETL / ELT Pipelines`, `dbt`, `Snowflake`, `BigQuery`, `Git/GitHub`, `Airflow` |
-
+| **Languages & Core** | `Python` (Pandas, NumPy, Scikit-Learn), `SQL` (T-SQL, PL/SQL, PostgreSQL) |
+| **Data Analytics & Science** | `Statistical Modeling`, `Supervised/Unsupervised Learning`, `Time Series Forecasting`, `Explortory Data Analysis' |
 ---
 
 ### 🧪 Featured Projects
