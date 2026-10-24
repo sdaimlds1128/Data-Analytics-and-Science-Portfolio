@@ -1,13 +1,5 @@
 # Hi there, I'm Su Deng 👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Analytics%20%7C%20Data%20Science-2563eb?style=flat" alt="Focus" />
-  <img src="https://img.shields.io/badge/Experience-10%2B%20Years%20in%20BI-059669?style=flat" alt="Experience" />
-</p>
-
----
-
 ### 🚀 About Me
 
 I am a **Senior BI Developer with 10+ years of enterprise experience** pivoting into **Data Analytics (DA) and Data Science (DS)**. 
