@@ -6,7 +6,7 @@ I am a **Senior BI Developer with 10+ years of enterprise experience** pivoting 
 
 With deep production expertise in enterprise data warehousing, advanced SQL modeling, and executive storytelling, I bridge the critical gap between raw data infrastructure, exploratory data analysis, and production machine learning workflows.
 
-- 📐 **Core Edge:** 10 years of understanding enterprise business domain logic, messy source data, and production ETL/ELT pipelines before applying machine learning.
+- 📐 **Core Edge:** 10 years of understanding Messy business data, data modeling, and data visualization before applying machine learning.
 - 🎓 **Background:** Applied Math & Statistics, Economics, Data Analytics and Software Development.
 
 ---
